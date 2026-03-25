@@ -1,4 +1,4 @@
-# File & Folder Automation
+# File System Automation
 
 ## Description
 
@@ -10,7 +10,7 @@ Beyond basic file operations, the project introduces more advanced automation ut
 
 Every project in the repository is designed to be simple, modular, and easy to understand, allowing learners to explore the implementation details without unnecessary complexity. At the same time, the collection demonstrates practical real-world applications of Python file system programming, including automation workflows commonly used in data processing, document handling, and system maintenance tasks. By studying and running these scripts, users can gain valuable experience with Python libraries for file manipulation, directory management, and document processing while also building a versatile toolkit that can be adapted to their own automation needs.
 
-
+---
 
 ## Projects
 
@@ -38,19 +38,22 @@ Every project in the repository is designed to be simple, modular, and easy to u
 22. **[Image Text Extractor](22_img_text_extractor/)** - A Python script that extracts text from images using Optical Character Recognition (OCR).  
 23. **[PDF Watermark Adder](23_pdf_watermark_adder/)** - A Python script that adds a watermark to every page of a PDF document.  
 24. **[Document Size Manager](24_document_size_manager/)** - A Python script that can compress or enlarge the size and quality of documents or images while displaying file size before and after processing.  
-25. **[PDF ↔ Word Converter](25_pdf_vs_word/)** - A Python script that converts PDF files to DOCX and DOCX files to PDF.  
+25. **[PDF ↔ Word Converter](25_pdf_vs_word/)** - A Python script that converts PDF files to DOCX and DOCX files to PDF.
+---
+
 ## How to Use
 
 ### 1. Clone the repository using the command:
-   ```bash
-   git clone https://github.com/<repo name>
-   ```
-
-### 2. Open any project folder and read its README.md file for detailed instructions.
-
-### 3. Run the script:
 ```
-python main.py
+git clone https://github.com/sanchayan7432/File-System-Automation
 ```
+---
 
+### 2. Run the whole integrated system script:
+```
+python app.py
+```
+---
 
+## Author
+Sanchayan Ghosh. Email me at sanchayan.ghosh2022@uem.edu.in
